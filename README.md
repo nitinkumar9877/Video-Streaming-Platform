@@ -3,4 +3,4 @@ This project is a complete backend project that has all the features that a back
 This is a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more.
 Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens and many more.
 
-Model Link-[model](https://app.eraser.io/workspace/xloQG2vOVNTa4u4qOfsc?origin=)
+Model Link-[model]([https://app.eraser.io/workspace/xloQG2vOVNTa4u4qOfsc?origin=](https://app.eraser.io/workspace/xloQG2vOVNTa4u4qOfsc?origin=share))
