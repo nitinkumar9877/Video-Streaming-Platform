@@ -1,4 +1,4 @@
-# 🎥 VideoTube - YouTube Clone Backend API
+# 🎥 Video Streaming Platform - YouTube Clone Backend API
 
 A scalable **YouTube-inspired backend application** built with **Node.js, Express.js, MongoDB, and Mongoose**. The project provides secure authentication, video management, and social interaction features through RESTful APIs, following industry-standard backend development practices.
 
